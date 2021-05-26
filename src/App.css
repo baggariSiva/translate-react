@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  padding: 4rem;
+}
+
+.container {
+  font-family: "Open Sans", sans-serif;
+  display: grid;
+  padding: 20px;
+  height: 100%;
+  width: 100%;
+}
+
+.box-title {
+  text-align: start;
+}
+
+form {
+  display: grid;
+  align-items: flex-start;
+  margin: 2rem 0rem;
+  max-width: 76%;
+  justify-self: center;
+  min-width: 76%;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.preview {
+  max-width: 85vw;
+}
+
+.preview-text {
+  text-align: initial;
+  word-wrap: break-word;
+  padding: 0 6rem;
+}
